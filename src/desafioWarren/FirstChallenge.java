@@ -15,7 +15,7 @@ public class FirstChallenge {
 	
 	public static String NumerosImpares() {
 		String numbersWithSpace = "";
-		int limite = 1000;
+		int limite = 1000000;
 		int count = 0;
 		ArrayList<Integer> resultados = new ArrayList<Integer>();
 
